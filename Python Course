@@ -1,0 +1,9 @@
+## Week 1 Test
+import turtle
+wn=turtle.Screen ()   ## wn = instance
+
+jazz=turtle.Turtle()  ## jazz=instance
+jazz.forward(50)
+
+pop=turtle.Turtle()   ## pop= instance
+pop.right(50)
